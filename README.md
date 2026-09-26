@@ -1,3 +1,3 @@
 Ahoj světe
-Under development
+Development upgrading
 Dev tree
